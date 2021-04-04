@@ -1,6 +1,6 @@
 MiniStag
 --------
-
+, now with UI!
 2D convection solver.
 
 This is inspired from the 2D convection code by Paul Tackley
